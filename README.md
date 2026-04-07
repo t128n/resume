@@ -7,7 +7,7 @@
 
 
 # Summary
-TPO and SE in the automotive industry by day, FOSS & tech enthusiast by night. Developing and managing data and software systems. Part-time studying Business Informatics at BHT Berlin.
+TPO and Software Engineer in the automotive industry, focused on developing and managing data and software systems. Passionate about open-source technology. Part-time student of Business Informatics at BHT Berlin.
 
 # Education
 ## **Berliner Hochschule für Technik (BHT)**, BS in Business Informatics (part-time)
