@@ -64,10 +64,10 @@ cv:
       - label: "Top Graduate Computer Science Expert for Data and Process Analysis 2025 (Berlin)"
         details: "IHK Berlin"
     technologies:
-      - label: "Languages"
-        details: "TypeScript, Python, PySpark, SQL, Node.js"
-      - label: "Frameworks & Tools"
-        details: "React, Vue.js, Express, Databricks, MQTT, CI/CD, Git, Docker, Linux"
+      - label: "Technical"
+        details: "CI/CD, Containerization, CSS, Git, IIoT, Linux, MQTT, PySpark, Python, React, SQL, TypeScript, Vite, Vitest, Vue.js, Windows Administration"
+      - label: "Business"
+        details: "Product Management, Project Management, Community Management"
     certificates:
       - label: "GitHub Foundations"
         details: "GitHub · 2024-12"
