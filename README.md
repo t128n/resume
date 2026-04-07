@@ -6,7 +6,7 @@
 
 
 # Summary
-Technical Product Owner and Software Engineer focused on data systems, platform engineering, and developer tooling. Passionate about open-source technology. Part-time student of Business Informatics at BHT Berlin..
+Technical Product Owner and Software Engineer focused on data systems, platform engineering, and developer tooling. Passionate about open-source technology. Part-time student of Business Informatics at BHT Berlin.
 
 # Education
 ## **Berliner Hochschule für Technik (BHT)**, BS in Business Informatics (part-time)
