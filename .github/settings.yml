@@ -1,6 +1,6 @@
 repository:
-  name: resume
-  description: Torben Haack's resume, rendered with rendercv.
+  name: cv
+  description: Torben Haack's Curriculum Vitae rendered with RenderCV.
   topics:
     - resume
     - cv
