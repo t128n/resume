@@ -3,7 +3,6 @@
 - Email: [torben.haack@ipv4.8shield.net](mailto:torben.haack@ipv4.8shield.net)
 - Location: Berlin, DE
 - Website: [t128n.dev](https://t128n.dev/)
-- GitHub: [t128n](https://github.com/t128n)
 
 
 # Summary
