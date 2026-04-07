@@ -85,9 +85,9 @@ Nov 2025
 **Top Graduate Computer Science Expert for Data and Process Analysis 2025 (Berlin):** IHK Berlin
 
 # Technologies
-**Languages:** TypeScript, Python, PySpark, SQL, Node.js
+**Technical:** CI/CD, Containerization, CSS, Git, IIoT, Linux, MQTT, PySpark, Python, React, SQL, TypeScript, Vite, Vitest, Vue.js, Windows Administration
 
-**Frameworks & Tools:** React, Vue.js, Express, Databricks, MQTT, CI/CD, Git, Docker, Linux
+**Business:** Product Management, Project Management, Community Management
 
 # Certificates
 **GitHub Foundations:** GitHub · 2024-12

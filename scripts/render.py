@@ -9,15 +9,15 @@ def log(message, symbol="ℹ️"):
     print(f"{symbol} {message}")
 
 def render():
-    # 1. Load the name from resume.yaml
-    resume_path = Path("resume.yaml")
-    if not resume_path.exists():
-        log(f"Error: {resume_path} not found.", "❌")
+    # 1. Load the name from cv.yaml
+    cv_path = Path("cv.yaml")
+    if not cv_path.exists():
+        log(f"Error: {cv_path} not found.", "❌")
         sys.exit(1)
 
-    log(f"Loading resume data from {resume_path}...")
+    log(f"Loading CV data from {cv_path}...")
     yaml = YAML(typ='safe')
-    with open(resume_path, "r") as f:
+    with open(cv_path, "r") as f:
         data = yaml.load(f)
     
     name = data["cv"]["name"]
@@ -28,9 +28,9 @@ def render():
     dist_dir = Path("dist")
     
     # 2. Run RenderCV
-    log(f"Rendering resume for {name} using RenderCV...", "🚀")
+    log(f"Rendering CV for {name} using RenderCV...", "🚀")
     try:
-        subprocess.run(["rendercv", "render", str(resume_path)], check=True)
+        subprocess.run(["rendercv", "render", str(cv_path)], check=True)
     except subprocess.CalledProcessError as e:
         log(f"RenderCV failed with error: {e}", "❌")
         sys.exit(1)
