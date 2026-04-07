@@ -38,6 +38,8 @@ Jan 2026 – present
 
 - Develop IIoT data products and internal engineering tooling.
 
+- Subject-Matter Trainer, mentoring and training apprentices in IIoT, data engineering, and software engineering practices.
+
 
 
 ## **Mercedes-Benz AG**, Software Engineer
