@@ -12,7 +12,10 @@ cv:
       fontawesome_icon: "user"
   sections:
     summary:
-      - "TPO and Software Engineer in the automotive industry, focused on developing and managing data and software systems. Passionate about open-source technology. Part-time student of Business Informatics at BHT Berlin."
+      - "Technical Product Owner and Software Engineer focused on data
+        systems, platform engineering, and developer tooling. Passionate
+        about open-source technology. Part-time student of Business
+        Informatics at BHT Berlin.."
     education:
       - institution: "Berliner Hochschule für Technik (BHT)"
         area: "Business Informatics (part-time)"
@@ -64,8 +67,12 @@ cv:
       - label: "Top Graduate Computer Science Expert for Data and Process Analysis 2025 (Berlin)"
         details: "IHK Berlin"
     technologies:
-      - label: "Technical"
-        details: "CI/CD, Containerization, CSS, Git, IIoT, Linux, MQTT, PySpark, Python, React, SQL, TypeScript, Vite, Vitest, Vue.js, Windows Administration"
+      - label: "DevOps"
+        details: "CI/CD (GitHub Actions), Docker, Podman, IaC, Linux, Git"
+      - label: "Data Engineering"
+        details: "Python, PySpark, SQL, Databricks, MQTT, IIoT"
+      - label: "Software Engineering"
+        details: "TypeScript, Node.js, React, Vue.js, Vite, Vitest, CSS"
       - label: "Business"
         details: "Product Management, Project Management, Community Management"
     certificates:

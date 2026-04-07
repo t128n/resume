@@ -6,7 +6,7 @@
 
 
 # Summary
-TPO and Software Engineer in the automotive industry, focused on developing and managing data and software systems. Passionate about open-source technology. Part-time student of Business Informatics at BHT Berlin.
+Technical Product Owner and Software Engineer focused on data systems, platform engineering, and developer tooling. Passionate about open-source technology. Part-time student of Business Informatics at BHT Berlin..
 
 # Education
 ## **Berliner Hochschule für Technik (BHT)**, BS in Business Informatics (part-time)
@@ -85,7 +85,11 @@ Nov 2025
 **Top Graduate Computer Science Expert for Data and Process Analysis 2025 (Berlin):** IHK Berlin
 
 # Technologies
-**Technical:** CI/CD, Containerization, CSS, Git, IIoT, Linux, MQTT, PySpark, Python, React, SQL, TypeScript, Vite, Vitest, Vue.js, Windows Administration
+**DevOps:** CI/CD (GitHub Actions), Docker, Podman, IaC, Linux, Git
+
+**Data Engineering:** Python, PySpark, SQL, Databricks, MQTT, IIoT
+
+**Software Engineering:** TypeScript, Node.js, React, Vue.js, Vite, Vitest, CSS
 
 **Business:** Product Management, Project Management, Community Management
 
